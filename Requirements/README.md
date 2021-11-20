@@ -1,3 +1,0 @@
-* EditREADME
-
-** Heading 2
