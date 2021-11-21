@@ -16,3 +16,18 @@ The timeline they can book 120 days advance in the ticket.
 ## Defining our system
 The railway reservation system facilitates the passengers to enquire about the trains available on the basis of source and destination, booking and cancellation of tickets, enquire about the status of the booked ticket, etc.The aim of case study is to design and develop a database maintaining the records of different trains, train status, and passengers. The record of train includes its number, name, source, destination, and days on which it is available, whereas record of train status includes dates for which tickets can be booked, total number of seats available, and number of seats already booked.
 ## SWOT Analysis
+Strengths of the system includes that your business is round the clock and you can maximize reservations. The weaknesses would involve not proper internet access but also  Avoid booking systems that don’t bring you new quality customers.
+## 4W's and 1H's
+## Who
+Any people who prefers online ticket reservation.
+## what
+people who can pre book the ticket or book online when needed.
+## when
+This project will be completed within the given deadline.
+## where
+This project will be platform independent.
+## How
+This project will be build mostly using C.
+## Detail Requirements
+## High Level Requirements:
+
