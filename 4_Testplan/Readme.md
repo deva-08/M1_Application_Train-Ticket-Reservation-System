@@ -1,6 +1,6 @@
 # Test Plan:
 ## Table no: High level test plan
-| Test ID	Description	Exp I/P	Exp O/P	Actual Out	Type Of Test
+| Test ID	| Description |	Exp I/P |	Exp O/P	|Actual Out|	Type Of Test |
 H_01	--------------------------------------------------------------	------------	-------------	----------------	Requirement based
 H_02	--------------------------------------------------------------	------------	-------------	----------------	Scenario based
 H_03	--------------------------------------------------------------	------------	-------------	----------------	Boundary based
