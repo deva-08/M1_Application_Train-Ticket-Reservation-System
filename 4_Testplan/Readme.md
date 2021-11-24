@@ -1,13 +1,8 @@
 # Test Plan:
 ## Table no: High level test plan
-|Test ID | Description	               | Exp I/P	  |Exp O/P	  | Actual Out	 |Type Of Test     |
-|:---:   | :-------------------------: | :-------:  | :------:  | :----------: | :-----------:   |
-|H_01	   |-----------------------------|------------|-----------|--------------|Requirement based|
-|H_02	   |-----------------------------|------------|-----------|--------------|Scenario based   |
-|H_03	   |-----------------------------|------------|-----------|--------------|Boundary based   |
-## Table no: Low level test plan
-|Test ID | Description	               | Exp I/P	  |Exp O/P	  | Actual Out	 |Type Of Test     |
-|:---:   | :-------------------------: | :-------:  | :------:  | :----------: | :-----------:   |
-|L_01	   |-----------------------------|------------|-----------|--------------|Requirement based|
-|L_02	   |-----------------------------|------------|-----------|--------------|Scenario based   |
-|L_03	   |-----------------------------|------------|-----------|--------------|Boundary based   |
+|Test ID | Test Scenario	               |Type Of Test                                         |                                   
+|:---:   | :----------------------------:|:-----------:                                        |
+|H_01	   |Reserve a ticket               |Login to the website to book the ticket              |
+|H_02	   |View available tickets         |view all the available tickets to book the ticket    |
+|H_03	   |Book Ticket                    |fill the details in the asked form to book the train |
+|H_04    |Cancel Ticket                  |If the journey is cancelled, cancel the ticket       |
