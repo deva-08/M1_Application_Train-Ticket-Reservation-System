@@ -6,10 +6,6 @@
 
 ## window os Badge
 
-## Codiga
-
-## codiga Badge
-
 ## Folder structure
 |Folder_Name    |	Description  |
 |:----------:   |:-----------: |
