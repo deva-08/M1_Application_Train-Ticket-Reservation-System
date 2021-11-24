@@ -2,7 +2,9 @@
 ## Introduction
  Train Ticket Reservation System is software that handles the entire booking data of the Railway. It is fully based on the concept of reserving train tickets for various destinations. Previously the task of handling the tickets at a time was very difficult, so there was a need for software that can handle all Railway Reservation System.This Software project is aimed at automation of Online Ticket reservation. Objective of the project is to develop customize software package for Ticket Reservation.
 ## Research
-  The application consist of ticket booking form. This Train Ticketing Android application includes all the details of the local trains in all cities and include all the network and areas which they will cover.The person just need to download and install this application on their devices which is working on android platform and then while sitting at their home, they can book tickets for all the local trains which they wish to travel.
+  In our daily life we have to reserve ticket for train. When we do this task manually then it becomes very hard to manage the ticket booking. So we are developing this system to manage booking of ticket automatically.
+In this train ticket reservation project we develop the system that can help the user to book their ticket online.
+In this project we take care of every service related to travelling and online ticket booking. When you start your traveling tour you have to book ticket so we help you from the starting point to the destination point.
 ## Cost and Features and Timeline
 FEATURES
 .loyalty program design,
