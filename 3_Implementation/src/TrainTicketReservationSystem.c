@@ -222,7 +222,7 @@ void login()
 		system("cls");	
 }
 
-void cancel(void)   /* Sorry this function does not work. Coding is not completed. Codes have been removed due to some errors  */
+void cancel(void)   
 {
 	/*FILE *f,*t;
 	int i=0;
