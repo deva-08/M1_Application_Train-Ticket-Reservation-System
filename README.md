@@ -7,11 +7,11 @@
 ## window os Badge
 
 ## Folder structure
-|Folder_Name    |	Description  |
-|:----------:   |:-----------: |
-|Requirements   |              |
-|Designs        |              |
-|Implementation |              |
-|Test plan      |              |
-|Report         |              |
-|Imagesandvideos|              | 
+|Folder_Name    |	Description                          |
+|:----------:   |:-----------:                         |
+|Requirements   |Documents detailing requirements      |
+|Designs        |Behavioural and structural diagrams   |
+|Implementation |All the code is written here          |
+|Test plan      |Documents with test plans and outputs |
+|Report         |Documentation of whole Project        |
+|Imagesandvideos|All the images of this project        | 
